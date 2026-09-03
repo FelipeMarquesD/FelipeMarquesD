@@ -1,39 +1,42 @@
+## Hello! I'am Felipe Marques, Developer!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
-</div>
-Profile
-
-I am a software developer focused on building solutions with Python, web technologies, and data-oriented tools.
-
-My current technical stack includes Python development, web technologies, data analysis, and scientific computing, with hands-on experience using Pandas, NumPy, and Jupyter.
-
-I use GitHub to document my projects, experiments, learning process, and continuous development as a software professional.
-
-Technologies
-<div align="center"> <table> <tr> <td align="center" width="140"> <a href="https://www.python.org/"> <img src="https://img.icons8.com/color/48/000000/python.png" width="45" alt="Python"/> </a> <br> <strong>Python</strong> </td> <td align="center" width="140"> <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="45" alt="HTML5"/> </a> <br> <strong>HTML5</strong> </td> <td align="center" width="140"> <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" alt="CSS3"/> </a> <br> <strong>CSS3</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"/> <br> <strong>Jupyter</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/> <br> <strong>Pandas</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/> <br> <strong>NumPy</strong> </td> </tr> </table> </div>
-GitHub Activity
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=FelipeMarquesD&count_private=true&show_icons=true&line_height=21&theme=github_dark" alt="Felipe Marques GitHub Statistics"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMarquesD&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" alt="Felipe Marques Most Used Languages"/>
-
-<br><br>
-GitHub Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMarquesD&theme=holi-theme" alt="Felipe Marques GitHub Streak"/> </div>
-Contribution Graph
 <div align="center">
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg) <h2 align="center"><u>My Github Stats</u></h2> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb"> <br> <br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark"> <br> <br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme"> </p>
-
+  <a href="https://github.com/pauloVarelo">
+  <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=pauloVarelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloVarelo&layout=compact&langs_count_private=true&theme=dracula"/>
 </div>
-Connect
-
-If you would like to connect, discuss technology, collaborate on a project, or simply exchange ideas, feel free to reach out.
-
-<div align="center"> <a href="https://www.linkedin.com/in/felipe-marques-defensor-08193b390/" target="_blank"> <img align="center" alt="Felipe Marques | LinkedIn" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /> </a>
-
-   
-
-<a href="https://instagram.com/felipemarques5216" target="_blank"> <img align="center" alt="Felipe Marques | Instagram" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" /> </a>
-
-   
-
-<a href="mailto:felipeobig22@gmail.com"> <img align="center" alt="Felipe Marques | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /> </a> </div>
+    
 <div align="center">
+  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Paulo-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img align="center" alt="Paulo-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Jogaridu-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHI7wkzohFIsQ/profile-displayphoto-shrink_800_800/0/1627613843146?e=1664409600&v=beta&t=xdiSoKtpfaKImoKaibwikzFpJQPAx14M1ouPASUOuXA">
+</div>
+ 
+   ##
+ 
+<div> 
+  <a href="https://instagram.com/paulocolodedeus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:paulohenriquefree@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-henrique-de-maria-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+<!---
+GGgigigante/GGgigigante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
