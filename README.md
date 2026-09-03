@@ -1,8 +1,11 @@
 ## 👨‍💻 About Me
 
 I'm Felipe Marques, a Developer passionate about technology, programming, and building solutions through code. 🚀
+
 I enjoy turning ideas into functional projects and constantly challenging myself to learn new technologies and improve my development skills. My current focus is mainly on Python, data analysis, and web development, working with tools such as Pandas, NumPy, Jupyter, HTML5, and CSS3.
+
 I'm always looking to evolve as a developer, explore new technologies, and create projects that combine logic, creativity, and problem-solving. 💡
+
 "Code is not just about writing programs — it's about creating solutions." 💻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
