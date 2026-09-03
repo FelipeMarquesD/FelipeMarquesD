@@ -29,7 +29,8 @@ I'm always looking to evolve as a developer, explore new technologies, and creat
     align="center" 
     alt="Discord" 
     width="38px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"
+    src="<img width="521" height="383" alt="image" src="https://github.com/user-attachments/assets/78f6712f-e6d7-4d41-821d-8dd75b9ab766" />
+"
   />
 </a>
 
