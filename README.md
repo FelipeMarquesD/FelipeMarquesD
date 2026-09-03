@@ -9,16 +9,8 @@
 </div>
     
 <div align="center">
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Paulo-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  <img align="center" alt="Paulo-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Jogaridu-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHI7wkzohFIsQ/profile-displayphoto-shrink_800_800/0/1627613843146?e=1664409600&v=beta&t=xdiSoKtpfaKImoKaibwikzFpJQPAx14M1ouPASUOuXA">
+Technologies 
+<div align="center"> <table> <tr> <td align="center" width="140"> <a href="https://www.python.org/"> <img src="https://img.icons8.com/color/48/000000/python.png" width="45" alt="Python"/> </a> <br> <strong>Python</strong> </td> <td align="center" width="140"> <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="45" alt="HTML5"/> </a> <br> <strong>HTML5</strong> </td> <td align="center" width="140"> <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" alt="CSS3"/> </a> <br> <strong>CSS3</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"/> <br> <strong>Jupyter</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/> <br> <strong>Pandas</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/> <br> <strong>NumPy</strong> </td> </tr> </table> </div> GitHub Activity <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=FelipeMarquesD&count_private=true&show_icons=true&line_height=21&theme=github_dark" alt="Felipe Marques GitHub Statistics"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMarquesD&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" alt="Felipe Marques Most Used Languages"/>
 </div>
  
    ##
