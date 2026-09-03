@@ -29,8 +29,7 @@ I'm always looking to evolve as a developer, explore new technologies, and creat
     align="center" 
     alt="Discord" 
     width="38px" 
-    src="<img width="521" height="383" alt="image" src="https://github.com/user-attachments/assets/78f6712f-e6d7-4d41-821d-8dd75b9ab766" />
-"
+    src="https://www.google.com/imgres?q=discord&imgurl=https%3A%2F%2Fimages-eds-ssl.xboxlive.com%2Fimage%3Furl%3D4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBevsdZpJiIhrXJKvOSYipsYbqdUBBn6r6Hb.keWYwuyu5QJ84NCtr5ij3JMrlPglnBeeDch3kJBTCQneZnfl9dA-%26format%3Dsource&imgrefurl=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2Fxpdc2rh70k22mn%3Fhl%3Dpt-BR%26gl%3DIT&docid=MeUXXpW2fbjPtM&tbnid=8Q3Cq5AIVU734M&vet=12ahUKEwiOoeX3lNOWAxWiq5UCHYMsNykQnPAOegQIORAA..i&w=2160&h=2160&hcb=2&ved=2ahUKEwiOoeX3lNOWAxWiq5UCHYMsNykQnPAOegQIORAA"
   />
 </a>
 
