@@ -10,7 +10,7 @@ I'm always looking to evolve as a developer, explore new technologies, and creat
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
-<div align="center">
+<div>
   
 <a href="https://www.linkedin.com/in/felipe-marques-defensor-08193b390/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Linkedin" width="34px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
