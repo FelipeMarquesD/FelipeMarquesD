@@ -9,7 +9,6 @@
 </div>
     
 <div align="center">
-Technologies 
 <div align="center"> <table> <tr> <td align="center" width="140"> <a href="https://www.python.org/"> <img src="https://img.icons8.com/color/48/000000/python.png" width="45" alt="Python"/> </a> <br> <strong>Python</strong> </td> <td align="center" width="140"> <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="45" alt="HTML5"/> </a> <br> <strong>HTML5</strong> </td> <td align="center" width="140"> <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" alt="CSS3"/> </a> <br> <strong>CSS3</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"/> <br> <strong>Jupyter</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/> <br> <strong>Pandas</strong> </td> <td align="center" width="140"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/> <br> <strong>NumPy</strong> </td> </tr> </table> </div>
 </div>
  
