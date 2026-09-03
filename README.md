@@ -24,6 +24,14 @@ I'm always looking to evolve as a developer, explore new technologies, and creat
 <a href="mailto:felipeobig22@gmail.com" >
   <img align="center" alt="Stefanos Stamoulis | Gmail" width="36px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
+<a href="SEU_LINK_DO_DISCORD" target="_blank">
+  <img 
+    align="center" 
+    alt="Discord" 
+    width="38px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"
+  />
+</a>
 
   ## **🛠️ Technologies & Tools**
 
