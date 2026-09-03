@@ -10,6 +10,8 @@ I'm always looking to evolve as a developer, explore new technologies, and creat
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
+## **🛠️ Technologies & Tools**
+
 <div align="center">
   
 <a href="https://www.linkedin.com/in/felipe-marques-defensor-08193b390/" target="_blank">
